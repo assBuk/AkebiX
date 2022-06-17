@@ -1,4 +1,4 @@
-# AkebiX
+### AkebiX
 Just small changes in terms of detection
 
 ---
@@ -13,5 +13,8 @@ Just small changes in terms of detection
 
 *If you have the wrong file, open the cfg.kek file and change it there or just delete it.*
 
+---
 
-玩得开心!
+
+### 玩得开心!
+*如果你可以这样称呼它*
