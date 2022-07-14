@@ -3,7 +3,10 @@ Just small changes in terms of detection
 
 ---
 
->Download Archive **[(link)](https://github.com/assBuk/AkebiX/archive/refs/tags/GG.zip)**
+>Download Archive 2.8.0 **[(link)](https://github.com/assBuk/AkebiX/releases/download/GG/GG.zip)**
+
+>Download Archive 2.7.0 **[(link)](https://github.com/assBuk/AkebiX/archive/refs/tags/GG.zip)**
+
 
 > Unzip the **AkebiX-GG** folder to any location 
 
